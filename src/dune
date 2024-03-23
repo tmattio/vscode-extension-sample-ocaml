@@ -1,0 +1,8 @@
+(melange.emit
+ (target extension)
+ (alias extension)
+ (libraries vscode)
+ (modules extension)
+ (module_systems
+  commonjs
+  (es6 mjs)))
